@@ -1,8 +1,7 @@
 # integrantes.py
 
 # Lista con los nombres y apellidos de los integrantes del grupo
-integrantes = 
-[
+integrantes = [
     "Rafael Oporto",
     "Fernando Olea",
     "Javier Pizarro",
